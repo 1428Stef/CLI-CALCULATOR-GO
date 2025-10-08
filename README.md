@@ -18,7 +18,5 @@ A simple calculator written in **GO** that performs basic arithmetic operations.
 - Go installed (version 1.16 or higher)
 
 ### Installation Steps
-1. Clone or save the code to a `main.go` file
-2. Initialize the module:
-   ```bash
-   go mod init calculator
+1. Clone or save the code
+2. Start build 
